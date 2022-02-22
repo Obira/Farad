@@ -1,3 +1,6 @@
+#include <LiquidCrystal.h>
+
+
 //#include <Arduino.h>
 //start with the lCD then the rfid
 
